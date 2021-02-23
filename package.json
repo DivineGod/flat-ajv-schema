@@ -1,6 +1,6 @@
 {
   "name": "flat-ajv-schema",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Takes a schema validation instance and returns a schema object with flattened $refs",
   "main": "index.js",
   "scripts": {
